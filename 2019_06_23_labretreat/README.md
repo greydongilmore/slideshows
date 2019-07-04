@@ -2,7 +2,7 @@
 [Click to view presentation on dbsGuide.](https://gitpitch.com/greydongilmore/slideshows/master?p=labretreat_2019#/) 
 
 # DBS Gide
-## open-source neurosurgical planning software
+## *open-source neurosurgical planning software*
 ### Greydon Gilmore & Wafiq Syed (London Health Sciences Centre)
 
 #### What is DBS?
