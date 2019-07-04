@@ -1,5 +1,5 @@
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/greydongilmore/slideshows/master?p=labretreat_2019#/) 
-[Click to view presentation on dbsGuide.](https://gitpitch.com/greydongilmore/slideshows/master?p=labretreat_2019#/) 
+[Click to view presentation on dbsGuide.](2019_06_23_labretreat/images/Picture1.png) 
 
 # DBS Gide
 ## open-source neurosurgical planning software
