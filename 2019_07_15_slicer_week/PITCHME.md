@@ -36,7 +36,7 @@
 @ulend
 
 ---
-@snap[north-west span-120]
+@snap[north-west]
 ## What is DBS?
 @snapend
 <br><br>
