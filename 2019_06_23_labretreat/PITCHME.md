@@ -2,7 +2,7 @@
 @title[Title]
 
 @snap[west headline text-white span-100]
-3D Slicer: DBS Guide
+3D Slicer: Test
 <br>
 
 @snapend
