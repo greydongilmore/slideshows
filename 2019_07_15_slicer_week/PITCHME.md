@@ -25,14 +25,14 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## Contents
 @snapend
-<br><br>
-
-1. What is DBS?
+<br><br> 
+@ul[squares]
+1. What is DBS? 
 2. Current DBS surgical workflow & drawbacks
 3. What is DBS Guide?
 4. Brief walkthrough
 5. Data storage
-
+@ulend
 
 ---
 @snap[north-west span-120]
@@ -46,7 +46,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 - Improper positioning of DBS electrodes accounts for 40% of cases of inadequate clinical outcomes (Okun et al. 2005)
 @ulend
 
-![DBS Image] 2019_07_15_slicer_week/images/DBS.png
+![DBS Image] slideshows/2019_07_15_slicer_week/images/DBS.png
 
 
 
