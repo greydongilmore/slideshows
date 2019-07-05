@@ -43,13 +43,14 @@ http://github.com/greydongilmore/DBSGuide <br>
 ## Current DBS surgical workflow
 @snapend
 <br><br><br>
+* Hey there
 @ul[list-bullets-squares](false)
 - Preoperative electrode trajectories planning
 - MRI sequences merged with stereotactic frame CT
 - Stereotactic procedure carried out
 - Trajectory refined by intraoperative electrophysiology 
 - Postoperative images determine actual electrode position
-** aewgf
+
 @ulend
 
 
