@@ -79,7 +79,7 @@
 ## Current Drawbacks
 @snapend
 <br><br>
-* 
+
 @ul[list-bullets-squares](false)
 - Commercial software is required for surgery
   - Often lacks state-of-the-art algorithms
@@ -96,7 +96,7 @@
 ## What is DBS Guide?
 @snapend
 <br><br>
-* 
+
 @ul[list-bullets-squares](false)
 - Surgical planning and postoperative assessment
 - Open-source automated workflow
@@ -106,7 +106,7 @@
 
 ---
 ## walkthrough - Components
-* 
+<br><br>
 @ul[list-bullets-squares](false)
 - Patient Directory
 - Frame Detection
