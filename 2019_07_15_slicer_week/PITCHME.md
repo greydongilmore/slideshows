@@ -28,7 +28,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snapend
 <br><br>
 *
-@ul[list-bullets](false)
+@ul[list-bullets-squares](false)
 - Current DBS surgical workflow
 - What is DBS Guide?
 - Why 3D Slicer?
