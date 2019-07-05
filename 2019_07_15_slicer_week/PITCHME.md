@@ -47,7 +47,8 @@
 - Improper positioning of DBS electrodes accounts for 40% of cases of inadequate clinical outcomes (Okun et al. 2005)
 
 @ulend
-
+<br>
+![DBS Image](images/DBS.png)
 
 
 ---
