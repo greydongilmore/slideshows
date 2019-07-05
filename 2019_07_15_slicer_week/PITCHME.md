@@ -27,14 +27,12 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snapend
 <br><br>
 * 
-@ul[list-bullets-squares](false)
-- What is DBS?
-- Current DBS surgical workflow
-- What is DBS Guide?
-- Why 3D Slicer?
-- Methods
-- Case example
-@ulend
+1. What is DBS?
+2. Current DBS surgical workflow & drawbacks
+3. What is DBS Guide?
+4. Brief walkthrough
+5. Data storage
+
 
 ---
 @snap[north-west span-120]
@@ -49,7 +47,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @ulend
 
 @snap[south-east span-120]
-![DBS Image] images/DBS.png
+![DBS Image] 2019_07_15_slicer_week/images/DBS.png
 @snapend
 
 
