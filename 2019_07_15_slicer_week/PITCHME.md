@@ -67,7 +67,8 @@
 - Postoperative images determine actual electrode position
 
 @ulend
-
+---
+![Current Workflow](images/workflow.png)
 
 ---
 @title[Drawbacks to current workflow]
