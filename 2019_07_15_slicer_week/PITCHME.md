@@ -10,6 +10,7 @@
 
 @snap[south-west]
 @fa[envelope-o pad-right-icon]@css[contact-email](greydon.gilmore@gmail.com)
+@size[40%](<p>Lab Retreat 2019<br>June 22, 2019</p>)
 @snapend
 
 
