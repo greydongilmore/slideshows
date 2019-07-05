@@ -48,7 +48,7 @@
 
 @ulend
 <br>
-![DBS Image](slideshows/2019_07_15_slicer_week/images/DBS.png)
+![DBS Image](/2019_07_15_slicer_week/images/DBS.png)
 
 
 ---
