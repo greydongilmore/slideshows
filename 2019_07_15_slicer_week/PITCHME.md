@@ -70,7 +70,11 @@
 @ulend
 
 ---
----?image=assets/img/workflow.png
+@title[Current DBS surgical workflow]
+
+![DBS Image](assets/img/workflow.png)
+
+
 
 ---
 @title[Drawbacks to current workflow]
