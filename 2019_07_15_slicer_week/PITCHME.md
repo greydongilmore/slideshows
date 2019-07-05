@@ -72,9 +72,7 @@
 ---
 @title[Current DBS surgical workflow]
 
-![DBS Image](assets/img/workflow.png)
-
-
+![Current DBS surgical workflow](2019_07_15_slicer_week/assets/img/workflow.png)
 
 ---
 @title[Drawbacks to current workflow]
