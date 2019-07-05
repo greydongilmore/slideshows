@@ -1,7 +1,7 @@
 ---?color=black
 @title[Title]
 
-@snap[west headline text-white span-100]
+@snap[west headline text-15 text-white span-100]
 3D Slicer: DBS Guide
 @size[40%](<p>Lab Retreat 2019<br>June 22, 2019</p>)
 <br>
@@ -9,7 +9,7 @@
 
 @snapend
 
-@snap[south-west text-14]
+@snap[south-west text-10]
 @fa[envelope-o pad-right-icon]@css[contact-email]( greydon.gilmore@gmail.com)
 @fa[envelope-o pad-left-icon]@css[contact-email]( wafiqsyedr@gmail.com)
 @snapend
