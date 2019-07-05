@@ -104,6 +104,7 @@
 
 ---
 ## walkthrough - Components
+* 
 @ul[list-bullets-squares](false)
 - Patient Directory
 - Frame Detection
@@ -114,6 +115,7 @@
 - Microelectrode Recordings
 - Postoperative Localization
 @ulend
+
 ---
 @title[Data storage]
 @snap[north-west span-120]
