@@ -19,13 +19,6 @@ http://github.com/greydongilmore/DBSGuide <br>
 @fa[envelope-o pad-right-icon]@css[contact-email]( wafiqsyedr@gmail.com)
 @snapend
 
-@snap[south-west text-3 text-blue]
-http://github.com/greydongilmore/DBSGuide <br>
-@fa[envelope-o pad-right-icon]@css[contact-email]( greydon.gilmore@gmail.com)
-<br>
-@fa[envelope-o pad-right-icon]@css[contact-email]( wafiqsyedr@gmail.com)
-@snapend
-
 ---
 @title[Contents]
 
@@ -42,6 +35,20 @@ http://github.com/greydongilmore/DBSGuide <br>
 - Case example
 @ulend
 
+---
+@snap[north-west span-120]
+## What is DBS?
+@snapend
+<br><br>
+* 
+@ul[list-bullets-squares](false)
+- Deep Brain Stiumation, is is an established surgical treatment for people with movement disroders, such as Parkinson's disease
+- involves implanting electrodes (thin metal wires) within certain areas of the brain and sending electrical impulses through these electrodes
+- Improper positioning of DBS electrodes accounts for 40% of cases of inadequate clinical outcome
+
+@ulend
+
+
 
 ---
 @title[Current DBS surgical workflow]
@@ -49,7 +56,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## Current Workflow
 @snapend
-<br><br><br>
+<br><br>
 * 
 @ul[list-bullets-squares](false)
 - Preoperative electrode trajectories planning
@@ -67,7 +74,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## Current Drawbacks
 @snapend
-<br><br><br>
+<br><br>
 * 
 @ul[list-bullets-squares](false)
 - Commercial software is required for surgery
@@ -83,7 +90,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## What is DBS Guide?
 @snapend
-<br><br><br>
+<br><br>
 * 
 @ul[list-bullets-squares](false)
 - Surgical planning and postoperative assessment
@@ -98,7 +105,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## Data storage
 @snapend
-<br><br><br>
+<br><br>
 
 ```
 └── settings
@@ -112,7 +119,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## Settings directory
 @snapend
-<br><br><br>
+<br><br>
 
 ```markdown
 └── settings
@@ -128,7 +135,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## Summaries directory
 @snapend
-<br><br><br>
+<br><br>
 
 ```markdown
 └── settings
@@ -147,7 +154,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## Data directory
 @snapend
-<br><br><br>
+<br><br>
 
 ```markdown
 └── settings
@@ -171,7 +178,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## Data directory
 @snapend
-<br><br><br>
+<br><br>
 
 ```markdown
 └── data
