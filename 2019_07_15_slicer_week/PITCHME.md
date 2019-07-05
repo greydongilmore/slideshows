@@ -42,14 +42,16 @@
 @snapend
 <br><br>
 
+@snap[west span-50]
 @ul[list-bullets-squares](false)
 - DBS is a neurosurgical treatment for movement disorders (i.e. Parkinson disease)
 - chronic electrode implantation (thin metal wires) into the brain
-    * electrodes deliver electrical impulses
+      - electrodes deliver electrical impulses
 - improper positioning of DBS electrodes accounts for 40% of cases of inadequate clinical outcomes (Okun et al. 2005)
 @ulend
+@snapend
 
-@snap[east span-120]
+@snap[east span-50]
 ![DBS Image](2019_07_15_slicer_week/assets/img/DBSimage.png)
 @snapend
 
