@@ -49,7 +49,7 @@
 @ulend
 <br>
 
-![DBS Image](images/DBS.png)
+![DBS Image](assets/img/DBS.png)
 
 
 ---
@@ -70,7 +70,7 @@
 @ulend
 
 ---
-![Current Workflow](images/workflow.png)
+![Current Workflow](assets/img/workflow.png)
 
 ---
 @title[Drawbacks to current workflow]
