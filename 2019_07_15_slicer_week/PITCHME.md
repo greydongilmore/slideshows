@@ -37,7 +37,7 @@
 ---
 @title[What is DBS?]
 
-@snap[north-west span-120]
+@snap[north-west span-140]
 ## What is Deep Brain Stiumation?
 @snapend
 <br><br>
