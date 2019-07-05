@@ -3,7 +3,7 @@
 
 @snap[west headline text-15 text-white span-100]
 3D Slicer: DBS Guide
-@size[50%](<p>open-source neurosurgical planning software</p>)
+@size[50%](<p>*open-source neurosurgical planning software</p>)
 @size[40%](<p>NA-MIC Project Week - July 2019 <br> Greydon Gilmore & Wafiq Syed </p>)
 <br>
 
