@@ -9,7 +9,7 @@
 
 
 @snap[south-west]
-@fa[envelope-o pad-right-icon]@css[contact-email](greydon.gilmore@gmail.caereom)
+@fa[envelope-o pad-right-icon]@css[contact-email](greydon.gilmore@gmail.com)
 @snapend
 
 
