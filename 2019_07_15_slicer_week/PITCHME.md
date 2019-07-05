@@ -26,7 +26,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 ## Contents
 @snapend
 <br><br>
-* 
+
 1. What is DBS?
 2. Current DBS surgical workflow & drawbacks
 3. What is DBS Guide?
