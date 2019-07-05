@@ -42,7 +42,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## Current DBS surgical workflow
 @snapend
-<br><br><br><br>
+<br><br><br>
 @ul[list-bullets-squares](false)
 - Preoperative electrode trajectories planning
 - MRI sequences merged with stereotactic frame CT
