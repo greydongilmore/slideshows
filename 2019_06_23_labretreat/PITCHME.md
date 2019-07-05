@@ -5,11 +5,9 @@
 3D Slicer: DBS Guide
 <br>
 
-
-@size[70%](<p>Lab Retreat 2019<br>June 22, 2019</p>)
 @snapend
 
-@size[50%]
+
 @snap[south-west]
 @fa[envelope-o pad-right-icon]@css[contact-email](greydon.gilmore@gmail.com)
 @snapend
