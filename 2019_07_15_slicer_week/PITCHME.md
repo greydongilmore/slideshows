@@ -48,7 +48,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 - Improper positioning of DBS electrodes accounts for 40% of cases of inadequate clinical outcomes (Okun et al. 2005)
 @ulend
 
-@snap[south-west span-120]
+@snap[south-east span-120]
 ![DBS Image] images/DBS.png
 @snapend
 
