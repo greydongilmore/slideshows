@@ -41,7 +41,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @title[Current DBS surgical workflow]
 
 @snap[north-west span-120]
-## Current DBS surgical workflow
+## Current Workflow
 @snapend
 <br><br><br>
 * 
@@ -59,10 +59,10 @@ http://github.com/greydongilmore/DBSGuide <br>
 @title[Drawbacks to current workflow]
 
 @snap[north-west span-120]
-## Drawbacks to current workflow
+## Current Drawbacks
 @snapend
 <br><br><br>
-*
+* 
 @ul[list-bullets-squares](false)
 - Commercial software is required for surgery
   - Often lacks state-of-the-art algorithms
@@ -78,7 +78,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 ## What is DBS Guide?
 @snapend
 <br><br><br>
-*
+* 
 @ul[list-bullets-squares](false)
 - Surgical planning and postoperative assessment
 - Open-source automated workflow
