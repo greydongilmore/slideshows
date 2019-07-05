@@ -1,5 +1,5 @@
-[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/greydongilmore/slideshows/master?p=labretreat_2019#/) 
-[Click to view presentation on dbsGuide.](https://gitpitch.com/greydongilmore/slideshows/master?p=labretreat_2019#/) 
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/greydongilmore/slideshows/master?p=2019_07_15_slicer_week#/) 
+[Click to view presentation on dbsGuide.](https://gitpitch.com/greydongilmore/slideshows/master?p=2019_07_15_slicer_week#/) 
 
 # DBS Guide
 ## open-source neurosurgical planning software
@@ -26,7 +26,8 @@ Once you have installed 3D Slicer, follow these steps:
 ![Slicer Welcome](images/Slicer-Welcome.png)
 3. We need to load the DBS Module now. Go to the top menu on Slicer and next to **"Modules"**, select **"Extension Wizard."** Then under Extension Tools, press **"Select Extension."** 
 ![Extension Wizard](images/ExtWizard.png)
-4. Find the dbsGuide Folder that you saved in step. We saved it in Desktop. Select the dbsGuide Folder and then select the dbsGuide folder inside of it. See below. Once selected, click open. 
-5. Congratulations! DBS Guide has been loaded successfully. Your screen should look like this: 
+4. Find the dbsGuide Folder that you saved in step. We saved it in Desktop. Select the dbsGuide Folder and click open. 
+5. A window will pop up. Make sure everything is selected and press Yes. 
+6. Congratulations! DBS Guide has been loaded successfully. Your screen should look like this: 
 
 For more documentation on what DBS Guide offers and how to use it, please visit: https://afids.readthedocs.io/en/latest/#
