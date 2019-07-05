@@ -70,7 +70,7 @@
 @ulend
 
 ---
-![Current Workflow](assets/img/workflow.png)
+---?image=assets/img/workflow.png&size=contain
 
 ---
 @title[Drawbacks to current workflow]

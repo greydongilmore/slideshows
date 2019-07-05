@@ -19,7 +19,7 @@ theme : black
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override : /css/PITCHME.css
+theme-override : assets/css/PITCHME.css
 
 #
 # Logo Setting
@@ -33,7 +33,7 @@ theme-override : /css/PITCHME.css
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
 # footnote : "GitPitch - The Fastest Way From Idea To Presentation"
-footnote : "<a target='_blank' href='https://github.com/greydongilmore/slideshows/tree/master/labretreat_2019'>DBS Guide</a>"
+footnote : "<a target='_blank' href='https://github.com/greydongilmore/slideshows/tree/master/2019_07_15_slicer_week'>DBS Guide</a>"
 
 
 #
