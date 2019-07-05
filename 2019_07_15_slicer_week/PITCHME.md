@@ -68,9 +68,10 @@
 @ulend
 
 ---
+@snap[midpoint]
 @title[Current DBS surgical workflow]
-
 ![Current workflow](2019_07_15_slicer_week/assets/img/currentworkflow.png)
+@snapend
 
 ---
 @title[Drawbacks to current workflow]
