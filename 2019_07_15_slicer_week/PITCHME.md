@@ -11,7 +11,8 @@
 
 @snap[south-west text-8 text-blue]
 @fa[envelope-o pad-right-icon]@css[contact-email]( greydon.gilmore@gmail.com)
-@fa[envelope-o pad-left-icon]@css[contact-email]( wafiqsyedr@gmail.com)
+<br>
+@fa[envelope-o pad-right-icon]@css[contact-email]( wafiqsyedr@gmail.com)
 @snapend
 
 
