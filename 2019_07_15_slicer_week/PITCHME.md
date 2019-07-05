@@ -25,7 +25,6 @@
 ## Contents
 @snapend
 <br><br>  
-* 
 
 @ul[list-bullets-squares](false)
 - What is DBS? 
@@ -40,7 +39,7 @@
 ## What is DBS?
 @snapend
 <br><br>
-* 
+
 @ul[list-bullets-squares](false)
 - Deep Brain Stiumation (DBS), is an established surgical treatment for people with movement disroders such as Parkinson's disease
 - Involves implanting electrodes (thin metal wires) within the brain and sending electrical impulses through these electrodes
@@ -48,10 +47,9 @@
 
 @ulend
 <br>
-
----
+@snap[east]
 ![DBS Image](2019_07_15_slicer_week/assets/img/DBSimage.png)
-
+@snapend
 
 ---
 @title[Current DBS surgical workflow]
