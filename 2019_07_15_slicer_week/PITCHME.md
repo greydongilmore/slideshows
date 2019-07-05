@@ -27,7 +27,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 ## Contents
 @snapend
 <br><br>
-*
+* 
 @ul[list-bullets-squares](false)
 - Current DBS surgical workflow
 - What is DBS Guide?
