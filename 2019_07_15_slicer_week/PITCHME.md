@@ -27,6 +27,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 ## Contents
 @snapend
 <br><br>
+*
 @ol[list-bullets-concise](false)
 - Current DBS surgical workflow
 - What is DBS Guide?
@@ -43,7 +44,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 ## Current DBS surgical workflow
 @snapend
 <br><br><br>
-* Hey there
+* 
 @ul[list-bullets-squares](false)
 - Preoperative electrode trajectories planning
 - MRI sequences merged with stereotactic frame CT
@@ -61,6 +62,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 ## Drawbacks to current workflow
 @snapend
 <br><br><br>
+*
 @ul[list-bullets-squares](false)
 - Commercial software is required for surgery
   - Often lacks state-of-the-art algorithms
@@ -76,6 +78,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 ## What is DBS Guide?
 @snapend
 <br><br><br>
+*
 @ul[list-bullets-squares](false)
 - Surgical planning and postoperative assessment
 - Open-source automated workflow
