@@ -12,8 +12,10 @@
 
 
 
+@snap[south-west text-3 text-green]
+@fab[github] http://github.com/greydongilmore/DBSGuide <br>
+@snapend
 @snap[south-west text-3 text-blue]
-http://github.com/greydongilmore/DBSGuide <br>
 @fa[envelope-o pad-right-icon]@css[contact-email]( greydon.gilmore@gmail.com)
 <br>
 @fa[envelope-o pad-right-icon]@css[contact-email]( wafiqsyedr@gmail.com)
