@@ -28,6 +28,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 <br><br>
 * 
 @ul[list-bullets-squares](false)
+- What is DBS?
 - Current DBS surgical workflow
 - What is DBS Guide?
 - Why 3D Slicer?
@@ -42,9 +43,9 @@ http://github.com/greydongilmore/DBSGuide <br>
 <br><br>
 * 
 @ul[list-bullets-squares](false)
-- Deep Brain Stiumation, is is an established surgical treatment for people with movement disroders, such as Parkinson's disease
-- involves implanting electrodes (thin metal wires) within certain areas of the brain and sending electrical impulses through these electrodes
-- Improper positioning of DBS electrodes accounts for 40% of cases of inadequate clinical outcome
+- Deep Brain Stiumation, is an established surgical treatment for people with movement disroders, such as Parkinson's disease
+- Involves implanting electrodes (thin metal wires) within the brain and sending electrical impulses through these electrodes
+- Improper positioning of DBS electrodes accounts for 40% of cases of inadequate clinical outcomes
 
 @ulend
 
