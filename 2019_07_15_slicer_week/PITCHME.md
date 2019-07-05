@@ -40,7 +40,7 @@
 @snap[north-west span-120]
 ## What is Deep Brain Stiumation?
 @snapend
-<br>
+<br><br>
 
 @ul[list-bullets-squares](false)
 - DBS is a neurosurgical treatment for movement disorders (i.e. Parkinson disease)
