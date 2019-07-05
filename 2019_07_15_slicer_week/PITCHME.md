@@ -11,9 +11,9 @@
 @snapend
 
 
-@box[text-orange span-80 fragment](Mars Attacks # Greetings earthlings. We come in peace!)
 
 @snap[south-west text-8 text-blue]
+@css[text-green fragment](Hello, World!)
 @fa[envelope-o pad-right-icon]@css[contact-email]( greydon.gilmore@gmail.com)
 <br>
 @fa[envelope-o pad-right-icon]@css[contact-email]( wafiqsyedr@gmail.com)
