@@ -3,13 +3,15 @@
 
 @snap[west headline text-15 text-white span-100]
 3D Slicer: DBS Guide
-@size[40%](<p>NA-MIC Project Week 2019<br>July 15-19, 2019</p>)
+@size[50%](<p>open-source neurosurgical planning software</p>)
+@size[40%](<p>NA-MIC Project Week 2019<br>July 15-19<br> Greydon Gilmore & Wafiq Syed, 2019</p>)
 <br>
 
 
 @snapend
 
 @snap[south-west text-8 text-blue]
+htt
 @fa[envelope-o pad-right-icon]@css[contact-email]( greydon.gilmore@gmail.com)
 <br>
 @fa[envelope-o pad-right-icon]@css[contact-email]( wafiqsyedr@gmail.com)
