@@ -49,7 +49,7 @@
 @ulend
 <br>
 
-![DBS Image](assets/img/DBS.png)
+![DBS Image](2019_07_15_slicer_week/assets/img/DBS.png)
 
 
 ---
