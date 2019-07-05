@@ -49,7 +49,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 - Stereotactic procedure carried out
 - Trajectory refined by intraoperative electrophysiology 
 - Postoperative images determine actual electrode position
-* aewgf
+** aewgf
 @ulend
 
 
