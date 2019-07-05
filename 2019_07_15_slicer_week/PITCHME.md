@@ -2,11 +2,10 @@
 @title[Title]
 
 @snap[west headline text-white span-100]
-3D Slicer: TEST
+3D Slicer: DBS Guide
 <br>
 
 
-@size[40%](<p>Lab Retreat 2019<br>June 22, 2019</p>)
 @snapend
 
 @snap[south-west]
