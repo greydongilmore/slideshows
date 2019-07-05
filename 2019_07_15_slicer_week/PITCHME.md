@@ -58,7 +58,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## Drawbacks to current workflow
 @snapend
-<br><br>
+<br><br><br>
 @ul[list-bullets-squares](false)
 - Commercial software is required for surgery
   - Often lacks state-of-the-art algorithms
@@ -73,7 +73,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## What is DBS Guide?
 @snapend
-<br><br>
+<br><br><br>
 @ul[list-bullets-squares](false)
 - Surgical planning and postoperative assessment
 - Open-source automated workflow
@@ -87,7 +87,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## Data storage
 @snapend
-<br><br>
+<br><br><br>
 
 ```
 └── settings
@@ -101,7 +101,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## Settings directory
 @snapend
-<br><br>
+<br><br><br>
 
 ```markdown
 └── settings
@@ -117,7 +117,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## Summaries directory
 @snapend
-<br><br>
+<br><br><br>
 
 ```markdown
 └── settings
@@ -136,7 +136,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## Data directory
 @snapend
-<br><br>
+<br><br><br>
 
 ```markdown
 └── settings
@@ -160,7 +160,7 @@ http://github.com/greydongilmore/DBSGuide <br>
 @snap[north-west span-120]
 ## Data directory
 @snapend
-<br><br>
+<br><br><br>
 
 ```markdown
 └── data
