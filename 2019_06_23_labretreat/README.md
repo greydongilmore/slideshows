@@ -22,9 +22,11 @@ DBS Guide is a surgical planning and postoperative assessmen that can be incorpo
 Once you have installed 3D Slicer, follow these steps:
 1. Download the latest version of DBS Guide [here](https://github.com/greydongilmore/dbsGuide/archive/master.zip).
 2. Unzip the folder and save it somewhere on your system. For this tutorial, the file has been saved in Desktop. 
-3. Open Slicer. It should look like this: 
+3. Open Slicer. It should look like this (*if you have a Python Interactor at the bottom, that is fine*): 
 ![Slicer Welcome](images/Slicer-Welcome.png)
 3. We need to load the DBS Module now. Go to the top menu on Slicer and next to **"Modules"**, select **"Extension Wizard."** Then under Extension Tools, press **"Select Extension."** 
 ![Extension Wizard](images/Ext.Wizard.png)
-4. 
+4. Find the dbsGuide Folder that you saved in step. We saved it in Desktop. Select the dbsGuide Folder and then select the dbsGuide folder inside of it. See below. Once selected, click open. 
+5. Congratulations! DBS Guide has been loaded successfully. Your screen should look like this: 
+
 For more documentation on what DBS Guide offers and how to use it, please visit: https://afids.readthedocs.io/en/latest/#
