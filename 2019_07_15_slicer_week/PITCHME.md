@@ -47,7 +47,7 @@
 
 @ulend
 <br>
-@snap[east]
+@snap[east span-120]
 ![DBS Image](2019_07_15_slicer_week/assets/img/DBSimage.png)
 @snapend
 
@@ -58,14 +58,13 @@
 ## Current Workflow
 @snapend
 <br><br>
-* 
+
 @ul[list-bullets-squares](false)
 - Preoperative electrode trajectories planning
 - MRI sequences merged with stereotactic frame CT
 - Stereotactic procedure carried out
 - Trajectory refined by intraoperative electrophysiology 
 - Postoperative images determine actual electrode position
-
 @ulend
 
 ---
