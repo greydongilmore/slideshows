@@ -84,6 +84,7 @@
   - Restricts the usage of the data for research
 - No integration of DBS systems
   - i.e. Medtronic, Boston Scientific
+- No objective measurement of planned vs. actual error 
 @ulend
 
 
@@ -101,7 +102,18 @@
 - Data is stored in easy to read file formats
 @ulend
 
-
+---
+## walkthrough - Components
+@ul[list-bullets-squares](false)
+- Patient Directory
+- Frame Detection
+- Registration 
+- Anatomical fiducials 
+- Target Planning
+- Intraoperative Planning
+- Microelectrode Recordings
+- Postoperative Localization
+@ulend
 ---
 @title[Data storage]
 @snap[north-west span-120]
