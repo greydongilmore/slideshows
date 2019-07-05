@@ -44,9 +44,8 @@
 - Deep Brain Stiumation (DBS), is an established surgical treatment for people with movement disroders such as Parkinson's disease
 - Involves implanting electrodes (thin metal wires) within the brain and sending electrical impulses through these electrodes
 - Improper positioning of DBS electrodes accounts for 40% of cases of inadequate clinical outcomes (Okun et al. 2005)
-
 @ulend
-<br>
+
 @snap[east span-120]
 ![DBS Image](2019_07_15_slicer_week/assets/img/DBSimage.png)
 @snapend
